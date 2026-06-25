@@ -1,0 +1,6 @@
+dashboard/*.html
+dashboard/*.json
+dashboard/*.log
+__pycache__/
+.DS_Store
+

@@ -1,0 +1,33 @@
+{
+  "title": "Jason Ops",
+  "owner": "Nikolaj Flojgaard",
+  "workspace": "/Users/nikolajflojgaard/.openclaw/workspace",
+  "memory_files": [
+    "/Users/nikolajflojgaard/.openclaw/workspace/memory/2026-06-25.md",
+    "/Users/nikolajflojgaard/.openclaw/workspace/MEMORY.md"
+  ],
+  "local_repos": [
+    "/Users/nikolajflojgaard/Documents/agent-orchestration-hub",
+    "/Users/nikolajflojgaard/Documents/repo-fleet-maintainer",
+    "/Users/nikolajflojgaard/Documents/agent-workbench",
+    "/Users/nikolajflojgaard/Documents/agent-qa-red-team",
+    "/Users/nikolajflojgaard/Documents/agent-memory-distiller",
+    "/Users/nikolajflojgaard/Documents/taskflow-agent-runner",
+    "/Users/nikolajflojgaard/Documents/agent-evaluation-harness",
+    "/Users/nikolajflojgaard/Documents/code-doc-pipeline",
+    "/Users/nikolajflojgaard/Documents/nikolajflojgaard.me",
+    "/Users/nikolajflojgaard/Documents/personal-ops-dashboard"
+  ],
+  "github_repos": [
+    "nikolajflojgaard/agent-orchestration-hub",
+    "nikolajflojgaard/repo-fleet-maintainer",
+    "nikolajflojgaard/agent-workbench",
+    "nikolajflojgaard/agent-qa-red-team",
+    "nikolajflojgaard/agent-memory-distiller",
+    "nikolajflojgaard/taskflow-agent-runner",
+    "nikolajflojgaard/agent-evaluation-harness",
+    "nikolajflojgaard/code-doc-pipeline",
+    "nikolajflojgaard/website"
+  ]
+}
+

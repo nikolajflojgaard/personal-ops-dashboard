@@ -1,0 +1,18 @@
+docs_dir: docs
+repository_name: personal-ops-dashboard
+service_name: personal-ops-dashboard
+owner: Nikolaj Flojgaard
+strict: true
+required_diagrams:
+  - context.mmd
+  - container-or-flow.mmd
+  - critical-sequence.mmd
+  - data-flow.mmd
+  - deployment.mmd
+exclude:
+  - .git
+  - dashboard
+  - docs/generated
+  - __pycache__
+  - .pycache
+
